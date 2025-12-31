@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Wind Tempos",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T12:47:41.079073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wind Tempos",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Wind_Tempos_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wind Tempos",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/02_Wind_Tempos_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wind Tempos",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/03_Wind_Tempos_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Porter Robinson - Wind Tempos (Official Audio)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/04_Porter_Robinson_-_Wind_Tempos_(Official_Audio)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wind Tempos",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Wind_Tempos_Porter_Robinson.txt"
+    }
+  ]
+}
